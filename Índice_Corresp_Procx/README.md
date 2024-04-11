@@ -21,7 +21,7 @@ E abaixo, comentários que julguei importante:
 - o PROCX realiza buscas horizontais ou verticais, mas não as duas na mesma análise. Ao menos eu não consegui implmentar e em partes entendi. 
 - Para encontrar um valor que tenha várias dimensões, se caso precisar no futuro, é interessante realizar uma multiplicação para tentar encontrar a única referência entre os 3 que resulte no valor 1. Como por exemplo:
 
-``` =Planilha1!A2='05.12_Cliente2023'!A2:A138437)*Planilha1!D2='05.12_Cliente2023'!H2:H138437)*Planilha1!E2='05.12_Cliente2023'!I2:T138437) ```
+``` =Planilha1!A2='Clientes2023'!A2:A138437)*Planilha1!D2='Clientes2023'!H2:H138437)*Planilha1!E2='Clientes2023'!I2:T138437) ```
 
   * Apenas para fins de relembrar, os dados na Planilha1, nas colunas respectivamente, são: código do Cliente, descrição do Produto e Maior valor de Venda do Produto. 
 
