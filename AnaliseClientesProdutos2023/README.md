@@ -67,20 +67,34 @@ Um detalhe bastante interessante foi que consegui calcular não só o mes, mas o
 
 ### Qual foi o desempenho de venda durante o ano?
 
-![image](https://github.com/katiacardoso/ExplorandoExcel/assets/91233884/17f4233e-de95-4f4f-801d-bb495be06cc8)
+![image](https://github.com/katiacardoso/ExplorandoExcel/assets/91233884/32483e81-b404-451e-8e65-f6f6bb2eae5e)
+
 
 e aqui aconteceu uma coisa interessante, observe abaixo: 
 
 <div align="center">
 
-![image](https://github.com/katiacardoso/ExplorandoExcel/assets/91233884/a8983b16-9ec4-47a2-a252-5e547997094f)
+![image](https://github.com/katiacardoso/ExplorandoExcel/assets/91233884/fdb760e7-3dd3-4216-9ad0-8ac68080ccc5)
 
 </div>
 
 
 o 1° valor é a soma da coluna de QuantidadeTotal e o segundo e o somatorio desta conta que tinha feito acima para verificar as vendas por mês. E teve um valor de diferença, de onde será que ele saiu, ou faltou no caso né. Poderia ser uma investigação interessante. 
 
-### 
+### Quais foram os meses com maiores volumes de venda e os menores?
+
+<div align="center">
+  
+![image](https://github.com/katiacardoso/ExplorandoExcel/assets/91233884/3ea3203a-57c7-4562-828c-8012545e1f1a)
+
+<div >
+
+### Qual é o panorama anual das vendas, graficamente?
+
+![image](https://github.com/katiacardoso/ExplorandoExcel/assets/91233884/a3a76a49-8111-4035-96b5-d3e0555d7a15)
+
+
+
 
 
 
